@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokul s</h1>
 <h3 align="center">A passionate Golang developer from India</h3>
 
-<p align="left"> <img src= "https://media1.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.webp?cid=790b7611gnkgxc3ekyjddulw4l0gkyvq2k73adloqflq94fe&ep=v1_gifs_search&rid=giphy.webp&ct=g"/> </p>
+<p align="left"> <img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25rZ3hjM2VreWpkZHVsdzRsMGdreXZxMms3M2FkbG9xZmxxOTRmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.webp"/> </p>
 
 <p align="left"> <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sgokul961" /></a> </p>
 
