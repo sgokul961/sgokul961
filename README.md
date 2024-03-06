@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gokul s</h1>
 <h3 align="center">A passionate Golang developer from India</h3>
 
-<p align="left"> <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhtOHY1NGVuZXYzMWRlbjJzd2xuZjk5dWx5eGo5MDl0bzdjbW84eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/> </p>
+<p align="left"> <img src= "https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/200.webp?cid=ecf05e47cwfplfphmy4spa7y7iehi5scj7jbpqaqrnbzl8y3&ep=v1_gifs_search&rid=200.webp&ct=g"/> </p>
 
 <p align="left"> <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sgokul961" /></a> </p>
 
 - 🔭 I’m currently working on [ECHO-HUB-SOCIAL-MEADIA-Golang-gRPC](git@github.com:sgokul961/ECHO-HUB-API-GATEWAY.git)
 
-- 🌱 I’m currently learning **Golang ,Postgres ,gin ,gRPC,Micro-Services**
+- 🌱 I’m currently learning **Golang ,Postgres ,gin ,gRPC,Micro-Services,Clean Code,**
 
 
 - 🤝 I’m looking for help with **Job**
