@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Golang ,Postgres ,gin ,gRPC,Micro-Services**
 
-- 👯 I’m looking to collaborate on [git@github.com:sgokul961TIME_PEACE_E-COMMERCE_REST_API_GOLANG_PROJECT](git@github.com:sgokul961/TIME_PEACE_E-COMMERCE_REST_API_GOLANG_PROJECT.git)
 
 - 🤝 I’m looking for help with **Job**
 
