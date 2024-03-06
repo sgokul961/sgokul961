@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokul s</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src=["https://komarev.com/ghpvc/?username=sgokul961&label=Profile%20views&color=0e75b6&style=flat" alt="sgokul961"](https://www.google.com/search?q=golang+gif&oq=golang+gif&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEJNzA4NmowajE1qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=R7BPJ0f9piHoSM&vssid=l) /> </p>
+<p align="left"> <img src=[["https://komarev.com/ghpvc/?username=sgokul961&label=Profile%20views&color=0e75b6&style=flat" alt="sgokul961"](https://www.google.com/search?q=golang+gif&oq=golang+gif&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEJNzA4NmowajE1qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=R7BPJ0f9piHoSM&vssid=l)](https://giphy.com/gifs/rodekruis-text-rode-kruis-kickstart2020-MHTmAdAys4hff5WYg3) /> </p>
 
 <p align="left"> <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sgokul961" /></a> </p>
 
