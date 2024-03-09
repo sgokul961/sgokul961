@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ECHO-HUB-SOCIAL-MEADIA-Golang-gRPC](git@github.com:sgokul961/ECHO-HUB-API-GATEWAY.git)
 
-- 🌱 I’m currently learning **Golang ,Postgres ,gin ,gRPC,Micro-Services,Clean Code,**
+- 🌱 I’m currently learning **Golang ,Postgres ,gin ,gRPC,Micro-Services,Clean Code**
 
 
 - 🤝 I’m looking for help with **Job**
