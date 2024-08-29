@@ -4,7 +4,7 @@
 <p align="left"> <img src= "https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/> </p>
 
 
-<p align="left"> <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sgokul961" /></a> </p>
+<p align="left"> <a href="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="sgokul961" /></a> </p>
 
 - 🔭 I’m currently working on [ECHO-HUB-SOCIAL-MEADIA-Golang-gRPC](git@github.com:sgokul961/ECHO-HUB-API-GATEWAY.git)
 
